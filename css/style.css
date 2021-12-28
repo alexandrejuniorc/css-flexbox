@@ -44,7 +44,7 @@ img {
   justify-content: space-between;
   /*justify-content: space-between é um código para criar espaçamento entre os elementos na mesma proporção*/
   flex-wrap: wrap;
-  /*Quando a tela é diminuida ele faz os componentes quebraren para a próxima linha*/
+  /*Quando a tela é diminuída ele faz os componentes quebrarem para a próxima linha*/
   padding-top: 10px;
 }
 
